@@ -1,4 +1,4 @@
-the-game
+The Game Project
 ========
 
 TheGame
